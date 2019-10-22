@@ -3,7 +3,9 @@ templateKey: index-page
 title: Are you ready to take your career to the next level?
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience2
-subheading: Support sustainable farming while enjoying a cup
+subheading: >-
+  Trade Excuses for Action and join our immersive workshops and retreats to
+  build the career of your dreams.
 mainpitch:
   title: Why Kaldi
   description: >
