@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Are you ready to take your career to the next level?
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great coffee with a conscience2
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
