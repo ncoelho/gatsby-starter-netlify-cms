@@ -7,12 +7,8 @@ subheading: >-
   Trade Excuses for Action and join our immersive workshops and retreats to
   build the career of your dreams.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Immersive is a 1 day event
+  description: "Are you ready to take your career to the next level? \U0001F914\nTrade Excuses for Action and join our immersive retreat to build the career of your dreams.\n\nThe Career Hacking Immersive is a 1 day event on November 30th, 2019 in Barcelona dedicated to helping you develop the tools necessary to build the career of your dreams.This event offers you a life transformation and immersion you can’t experience in our monthly meetup sessions.*Spots are limited as we want to keep the group intimate. First come first serve."
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
