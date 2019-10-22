@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Are you ready to take your career to the next level?
-image: /img/home-jumbotron.jpg
+image: /img/chfwshop.jpg
 heading: Great coffee with a conscience2
 subheading: >-
   Trade Excuses for Action and join our immersive workshops and retreats to
