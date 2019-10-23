@@ -1,35 +1,25 @@
 ---
 templateKey: blog-post
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: Meet our team - Kax Uson
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+description: "If you told me 12 months ago that I would be teaching people how to do the things that used to give me anxiety - I would’ve told you to “go home, you drunk!”. \U0001F926\U0001F3FB‍♀️"
 featuredpost: false
-featuredimage: /img/artboard-copy-17.jpg
+featuredimage: /img/kaxuson.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - ''
 ---
+If you told me 12 months ago that I would be teaching people how to do the things that used to give me anxiety - I would’ve told you to “go home, you drunk!”. 🤦🏻‍♀️
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Last year was probably the lowest point of my career. People were getting promoted left and right. Except for me, it seemed. 😞 Even people with less to 0 experience in Product Management in comparison to myself were put in equal job level or higher. I felt left behind.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Imagine the havoc that wreaked on my confidence. I started thinking that I was not getting promoted because I just sucked. And despite all the good feedback I was getting - I kept thinking “meh. 🤷🏻‍♀️”. I was good. But apparently, never good enough.
 
-## A little history
+This also affected my day to day! Even daily successes, I found difficult to own. I was lucky. I had good timing. I work with an amazing team! These were the reasons for any success. Except me. 🙅🏻‍♀️
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+It was just easier to wallow in insecurity. Thinking that promotion will come when I well and truly deserve it. Which, at that point, seemed never.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Good thing I had people who helped make sure I didn't stay in that rut. Who didn't believe that I was in the right job level - a seemingly simple, organizational problem but has snowballed into so many things. Friends who pushed me to fight for that promotion and question decisions made around this. Expert friends who taught me how to have these conversations with my managers. And managers who listened and took my concern seriously and fought alongside me. 👯‍♀️
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Suffice to say - i did get that promotion. And another one 6 months after that. And a bonus. And more importantly, my confidence back! Not just to challenge promotions, but also to take control of my career and have more ambitious goals for myself. And seek out opportunities to support them. Who would've thought that I’d be teaching Product Management or Presenting after all of that?! Not me! 🙇🏻‍♀️
 
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+And this is why I started Career Hacking for Women with Eli and Ferdaws. I wanted to make sure that everybody can have access to the support and tools that I had that helped to get me here. And to make sure that WE are not the biggest barriers to our own successes. 💙
