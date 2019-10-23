@@ -1,29 +1,24 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Meet our team - Ferdaws Mabrouki
 date: 2017-01-04T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/ferdaws.png
 tags:
-  - brewing
-  - chemex
+  - ''
 ---
-![chemex](/img/chemex.jpg)
+![](/img/ferdaws.png)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Coming from a software engineering background, I have always struggled with proving myself in a male dominated field. For whatever reason, the world can’t just be ok with having female engineers lead projects and make an impact.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+I was told by my previous boss that Tunisian women are not professionally ambitious enough since the majority, according to him, stay at the same position and company forever 🤯🤯🤯 After getting over the shock and processing what he said, I decided to never allow anyone to tell me what I can or can not do 💪
 
-## The little secrets of Chemex brewing
+Unlike what my ex boss believed, I was a very ambitious engineer. I knew that I can expand my horizons abroad. Even though I knew it wasn’t an easy task, I wasn’t aware of the emotional and psychological tax that I had to pay for the process.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Due to the limitation of my Tunisian passport, I got rejected by lots of companies because they didn’t want to pay for the relocation costs. That’s when I realized that, unfortunately, I don’t have the privileges of a first world country person.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+However, that didn’t derail me from attending my goals. With a bit of consistency, patience and determination, I landed a job in an international company that operates in 30 counties. But most importantly, a company that values individuals for who they are and not for where they’re coming from.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+After a year and a half, I jumped on an opportunity to become a product manager. Being in a meeting room with a bunch of seniors and pretending I knew what they were saying was mainly my first 3 months of product management 🤣 but with the support system I had from my colleagues and managers, I found the right amount of motivation and inspiration to grow and reach a senior level in just one year.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+My journey made me realize that anyone can do anything. With the right planning and consistency, everything is possible. This shaped my mission, as part of career hacking for women, to help others become more aware of their capabilities, especially women! 👸✨
