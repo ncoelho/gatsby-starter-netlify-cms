@@ -8,6 +8,8 @@ featuredimage: /img/kaxuson.jpg
 tags:
   - ''
 ---
+![Kax Uson](/img/kaxuson.jpg "Kax Uson")
+
 If you told me 12 months ago that I would be teaching people how to do the things that used to give me anxiety - I would’ve told you to “go home, you drunk!”. 🤦🏻‍♀️
 
 Last year was probably the lowest point of my career. People were getting promoted left and right. Except for me, it seemed. 😞 Even people with less to 0 experience in Product Management in comparison to myself were put in equal job level or higher. I felt left behind.
