@@ -4,11 +4,11 @@ title: Meet our team - Kax Uson
 date: 2017-01-04T15:04:10.000Z
 description: "If you told me 12 months ago that I would be teaching people how to do the things that used to give me anxiety - I would’ve told you to “go home, you drunk!”. \U0001F926\U0001F3FB‍♀️"
 featuredpost: false
-featuredimage: /img/kaxuson.jpg
+featuredimage: /img/kaxuson.png
 tags:
   - ''
 ---
-![Kax Uson](/img/kaxuson.jpg "Kax Uson")
+![Kax Uson](/img/kaxuson.png "Kax Uson")
 
 If you told me 12 months ago that I would be teaching people how to do the things that used to give me anxiety - I would’ve told you to “go home, you drunk!”. 🤦🏻‍♀️
 
