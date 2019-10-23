@@ -1,33 +1,30 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Meet our team - Elianne Mureddu
 date: 2016-12-17T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/eli.png
 tags:
-  - flavor
-  - tasting
+  - ''
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![](/img/eli.png)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+I’d be lying if I said my career has been a smooth ride. It’s been a challenging, transformative and rewarding ride - but the word smooth has not been a part of that vocabulary until this year. ⁣
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+And that’s the thing right ? In the end we go to work, and we separate who we are - our true selves, our personal life, our struggles, and burry those aside. Often far away. To be the person our boss, job, team needs us to be. ⁣
 
-## What the updates mean to you
+⁣I’ve never talked about this publicly, but I’m thinking it’s about damn time. Here it goes.....In 2017 I was diagnosed and treated for thyroid cancer ( yep the big C word). I was 26 and had spend the last 7 years working my way up a successful international management career. I was full of ambition, responsibilities and in my prime time. ⁣
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+It’s difficult to talk about and really transmit how this has shifted my life. Initially, My reaction was to throw myself into work. Keep going. Carry on. Move on. Survive. ⁣
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+I didn’t want my experience something that defined me. I didn’t want pitty. I just wanted to keep moving forward. ⁣
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+And for a while there it worked. But deep down .... it just didn’t feel right anymore. I started to purposely and deeply think about my life. My purpose. My direction. I started to realize that for years I had given my power away to the corporations i had worked for - and it was time to take it back. ⁣
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+And that’s what I’ve been doing the past two years - shifting my priorities, realigning them to my truth and defining a. New direction. ⁣
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+I started career hacking for women because I want Women around the world to lead a life of purpose. A life that they have designed and in which they feel powerful and fulfilled in. ⁣
+
+Career Hacking is not only about your professional journey, but also your private. It’s about having The right tools you need to take action. Picking up and polishing the skills necessary to achieve your goals. So that when the opportunities come, you are confident and ready to take them on. ⁣
+
+I want us all to be the best leaders, managers, creators, mentors than we can be... so That our success and joy will serve as inspiration and joy for others.
