@@ -8,8 +8,9 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer">
+       <div className="container">
         <div className="content">
-          <div className="container">
+         
            <hr />
             <div className="columns is-multiline">
               <div className="column is-12">
