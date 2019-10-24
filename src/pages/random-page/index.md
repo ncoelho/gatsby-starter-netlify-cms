@@ -1,6 +1,6 @@
 ---
 templateKey: 'product-page'
-path: /workshops
+path: /random-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
