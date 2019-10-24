@@ -18,7 +18,8 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <div>
+    <section className="section">
+
       <div className="container jumbobox">
           <h1 className="highlight1">
               {title}
@@ -29,20 +30,17 @@ export const IndexPageTemplate = ({
             </h2>
           </div>
       </div>
-    </div>
-    <div className="container highlight">
-      <h3>Next workshop</h3>
-      <div
-        className="highlight-image border8"
-        style={{
-          backgroundImage: `url(${
-            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-          })`,
-      
-          backgroundAttachment: `fixed`,
-        }}
-      >
-      </div>
+      <div className="container highlight">
+        <h3>Next workshop</h3>
+        <div
+          className="highlight-image border8"
+          style={{
+            backgroundImage: `url(${
+              !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+            })`,
+          }}
+        >
+        </div>
   
         <div className="tile">
           <h2 className="title">{mainpitch.title}</h2>
@@ -51,6 +49,7 @@ export const IndexPageTemplate = ({
           <p>{mainpitch.description}</p>
         </div>
       </div>
+    </section>
 
       <section className="section workshops">
          <div className="container">
