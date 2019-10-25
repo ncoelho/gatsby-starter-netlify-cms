@@ -1,5 +1,5 @@
 ---
-templateKey: 'product-page'
+templateKey: 'random-page'
 path: /random-page
 title: Our Coffee
 image: /img/jumbotron.jpg
