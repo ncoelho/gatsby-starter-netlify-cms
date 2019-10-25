@@ -30,12 +30,13 @@ export const IndexPageTemplate = ({
             </h2>
           </div>
           <div className="buttons">
-            <a href="/" className="btn">Next workshop</a>
+            <a href={mainpitch.link} target="_blank" className="btn">Next workshop</a>
             <a href="https://careerhackingforwomen.slack.com/join/shared_invite/enQtODAyMTIyNzcwMDY5LWRlOTgxNjI2MDhkMzk5M2FhMGI1OTc0NGFhMWNlNDYzNmYxZTk3YWJiODQxMWE5MGViMDAyMjdiZWM0N2YwNmI" target="_blank" className="btn2">Join the community</a>
           </div>
       </div>
       <div className="container highlight">
-        <h3 className="has-text-weight-bold is-size-3">Next workshop</h3>
+        <h3>Next workshop</h3>
+        <a href={mainpitch.link} target="_blank">
         <div
           className="highlight-image border8"
           style={{
@@ -45,6 +46,7 @@ export const IndexPageTemplate = ({
           }}
         >
         </div>
+        </a>
   
         <div className="tile">
           <h2 className="title">{mainpitch.title}</h2>
@@ -66,7 +68,7 @@ export const IndexPageTemplate = ({
          <div className="container">
             <div className="columns">
               <div className="column is-12">
-                <h3 className="has-text-weight-bold is-size-2">
+                <h3>
                   Workshops
                 </h3>
               </div>
@@ -79,6 +81,10 @@ export const IndexPageTemplate = ({
                 </Link>
               </div>
             </div>
+          </div>
+        </section>
+        <section className="section">
+          <div className="container">
             <div className="community-box">
               <div className="columns">
                 <div className="column is-7">
@@ -93,7 +99,7 @@ export const IndexPageTemplate = ({
               </div>
             </div>
             <div className="column is-12 blog-home">
-              <h3 className="has-text-weight-semibold is-size-2">
+              <h3>
                 Latest stories
               </h3>
               <BlogRoll />

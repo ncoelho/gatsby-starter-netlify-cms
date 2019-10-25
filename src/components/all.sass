@@ -12,7 +12,10 @@ $black: #2b2523
 
 body
   font-family: -apple-system, BlinkMacSystemFont, San Francisco, Helvetica Neue, Helvetica, Ubuntu, Roboto, Noto, Segoe UI, Arial, sans-serif
-  color: #242c4d !important
+  color: #4a5568
+
+h1, h2, h3, h4
+  color: #242c4d
 
 .container
   max-width: 980px !important
@@ -80,7 +83,12 @@ body
 .community-box h4
   margin: 0
   font-size: 28px
-  font-weight: 600
+  font-weight: 900
+  color: #fff
+
+.community-box .btn
+  background: rgba(255,255,255,0.9)
+  color: #54aaff
 
 .community-box 
   font-size: 18px
@@ -92,7 +100,9 @@ body
   padding: 12px 40px 
 
 .blog-home h3 
-  margin: 16px 0
+  margin: 24px 0
+  font-weight: 900
+  font-size: 28px
 
 // Helper Classes
 .full-width-image-container
@@ -126,22 +136,25 @@ body
 .highlight h3
   margin-bottom: 40px
   color: #242c4d
-  font-weight: 600
+  font-weight: 900
   font-size: 36px
   line-height: 50px
 
 .highlight h2
-  margin-bottom: 40px
   color: #242c4d
-  font-weight: 600
+  font-weight: 900
   font-size: 36px
   line-height: 50px
-  margin: 16px 0 8px 0
+  margin: 24px 0 24px 0
 
 .highlight 
   font-size: 18px
 
 .workshops h3
+  font-size: 20px
+  font-weight: 900
+
+.workshops h4
   font-size: 20px
   font-weight: 600
 
@@ -334,6 +347,12 @@ $menu-label-color: $white-ter
 +tablet-only
   .blog-list-item .featured-thumbnail
     flex-basis: 50%;
+  .community-box .btn
+    float: right
+
++desktop-only
+  .community-box .btn
+    float: right
 
 +mobile
   .blog-list-item header
