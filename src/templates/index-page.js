@@ -19,7 +19,6 @@ export const IndexPageTemplate = ({
 }) => (
   <div>
     <section className="section">
-
       <div className="container jumbobox">
           <h1 className="highlight1">
               {title}
@@ -29,9 +28,13 @@ export const IndexPageTemplate = ({
               {subheading}
             </h2>
           </div>
+          <div className="buttons">
+            <a href="/" className="btn">Next workshop</a>
+            <a href="https://careerhackingforwomen.slack.com/join/shared_invite/enQtODAyMTIyNzcwMDY5LWRlOTgxNjI2MDhkMzk5M2FhMGI1OTc0NGFhMWNlNDYzNmYxZTk3YWJiODQxMWE5MGViMDAyMjdiZWM0N2YwNmI" target="_blank" className="btn2">Join the community</a>
+          </div>
       </div>
       <div className="container highlight">
-        <h3>Next workshop</h3>
+        <h3 className="has-text-weight-bold is-size-3">Next workshop</h3>
         <div
           className="highlight-image border8"
           style={{
@@ -48,6 +51,13 @@ export const IndexPageTemplate = ({
         <div className="tile">
           <p>{mainpitch.description}</p>
         </div>
+        <div className="columns">
+          <div className="column is-5">
+            <div className="tile cta">
+              <a className="btn large" href="{mainpitch.link}" target="_blank">Tell me more</a>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -55,7 +65,7 @@ export const IndexPageTemplate = ({
          <div className="container">
             <div className="columns">
               <div className="column is-12">
-                <h3 className="has-text-weight-semibold is-size-2">
+                <h3 className="has-text-weight-bold is-size-2">
                   Workshops
                 </h3>
               </div>
