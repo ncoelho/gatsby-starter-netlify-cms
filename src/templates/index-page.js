@@ -55,7 +55,7 @@ export const IndexPageTemplate = ({
         <div className="columns">
           <div className="column is-5">
             <div className="tile cta">
-              <a className="btn large" href="{mainpitch.link}" target="_blank">Tell me more!</a>
+              <a className="btn large" href={mainpitch.link} target="_blank">tell me more!</a>
             </div>
           </div>
         </div>
