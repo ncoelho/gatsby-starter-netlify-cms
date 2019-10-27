@@ -10,9 +10,10 @@ $primary-invert: $kaldi-red-invert
 $body-color: #242c4d
 $black: #2b2523
 
-body
+body, html
   font-family: -apple-system, BlinkMacSystemFont, San Francisco, Helvetica Neue, Helvetica, Ubuntu, Roboto, Noto, Segoe UI, Arial, sans-serif
   color: #4a5568
+  height: 100%
 
 h1, h2, h3, h4
   color: #242c4d
@@ -151,7 +152,7 @@ h1, h2, h3, h4
   font-size: 18px
 
 .workshops h3
-  font-size: 20px
+  font-size: 28px
   font-weight: 900
 
 .workshops h4
@@ -364,7 +365,9 @@ $menu-label-color: $white-ter
 
 +mobile
   .jumbobox
-    padding: 100px 0
+    padding: 0
+  .jumbobox .buttons .btn
+    margin-bottom: 16px !important
   .highlight1
     font-size: 40px
     line-height: 38px
@@ -372,3 +375,5 @@ $menu-label-color: $white-ter
     padding: 20px
   .navbar-item img
     max-height: 32px !important;
+  .mailbox
+    padding: 24px

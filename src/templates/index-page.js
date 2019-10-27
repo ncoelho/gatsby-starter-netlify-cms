@@ -92,7 +92,7 @@ export const IndexPageTemplate = ({
                   <p>A chat group with like minded people, always available for support, questions and some fun!</p>
                 </div>
                 <div className="column is-5 has-text-centered">
-                  <a href="http://google.com" className="btn">
+                  <a href="https://careerhackingforwomen.slack.com/join/shared_invite/enQtODAyMTIyNzcwMDY5LWRlOTgxNjI2MDhkMzk5M2FhMGI1OTc0NGFhMWNlNDYzNmYxZTk3YWJiODQxMWE5MGViMDAyMjdiZWM0N2YwNmI" target="_blank" className="btn">
                     Join now
                   </a>
                 </div>
