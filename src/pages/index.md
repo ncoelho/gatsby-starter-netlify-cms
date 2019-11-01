@@ -3,10 +3,10 @@ templateKey: index-page
 title: Are you ready to take your career to the next level?
 subheading: >-
   Trade Excuses for Action and join our immersive workshops and retreats to
-  build the career of your dreams.
+  build the career of your dreams!
 image: /img/poster-13-small.jpg
 mainpitch:
-  description: "Are you ready to take your career to the next level? \U0001F914\n\nTrade Excuses for Action and join our immersive retreat to build the career of your dreams.\n\nThe Career Hacking Immersive is a 1 day event on November 30th, 2019 in Barcelona dedicated to helping you develop the tools necessary to build the career of your dreams.This event offers you a life transformation and immersion you can’t experience in our monthly meetup sessions.*Spots are limited as we want to keep the group intimate. First come first serve."
+  description: "Are you ready to take your career to the next level? \U0001F914\n\nTrade Excuses for Action and join our immersive retreat to build the career of your dreams. The Career Hacking Bootcamp is a full day workshop on November 30th, 2019 in Barcelona dedicated to helping you develop the tools necessary to build the career of your dreams.\n\n"
   link: >-
     https://www.eventbrite.com/e/career-hacking-for-women-bootcamp-achieve-your-career-ambitions-tickets-74795771165
   title: Immersive is a 1 day event
