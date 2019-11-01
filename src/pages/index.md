@@ -4,7 +4,7 @@ title: Are you ready to take your career to the next level?
 subheading: >-
   Trade Excuses for Action and join our immersive workshops and retreats to
   build the career of your dreams.
-image: /img/chfwshop.jpg
+image: /img/poster-13.png
 mainpitch:
   description: "Are you ready to take your career to the next level? \U0001F914\nTrade Excuses for Action and join our immersive retreat to build the career of your dreams.\n\nThe Career Hacking Immersive is a 1 day event on November 30th, 2019 in Barcelona dedicated to helping you develop the tools necessary to build the career of your dreams.This event offers you a life transformation and immersion you can’t experience in our monthly meetup sessions.*Spots are limited as we want to keep the group intimate. First come first serve."
   link: >-
